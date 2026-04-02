@@ -1,0 +1,4 @@
+Size,N,Memory_Usage (MB),Time_Add (s),Throughput_Add (ops/s),Time_View (s),Throughput_View (ops/s),Time_Delete_1_Node (s)
+Small,1000,0.0687,0.000002,500000000.0,0.000000,inf,0.00000000
+Medium,50000,3.4332,0.000000,inf,0.000000,inf,0.00000100
+Large,200000,13.7329,0.000001,200000000000.0,0.000000,inf,0.00000000
